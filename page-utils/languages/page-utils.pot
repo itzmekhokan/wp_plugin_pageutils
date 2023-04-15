@@ -1,0 +1,280 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Page Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-30 13:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.1.1"
+
+#. Name of the plugin
+#: includes/class-pu-admin.php:53
+msgid "Page Utils"
+msgstr ""
+
+#: includes/class-pu-admin.php:54 includes/class-pu-admin.php:93
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-pu-admin.php:55 includes/class-pu-admin.php:281
+msgid "Hreflang Tags"
+msgstr ""
+
+#: includes/class-pu-admin.php:57
+msgid "Settings"
+msgstr ""
+
+#: includes/class-pu-admin.php:113 includes/class-pu-admin.php:209
+msgid "Search"
+msgstr ""
+
+#: includes/class-pu-admin.php:122 includes/class-pu-admin.php:131
+msgid "Add FAQ"
+msgstr ""
+
+#: includes/class-pu-admin.php:127 includes/class-pu-admin.php:140
+#: includes/list-tables/class-faq-admin-list-table.php:119
+msgid "Name"
+msgstr ""
+
+#: includes/class-pu-admin.php:134 includes/class-pu-admin.php:144
+msgid "Edit FAQ"
+msgstr ""
+
+#: includes/class-pu-admin.php:186
+msgid "FAQ Question & Answer"
+msgstr ""
+
+#: includes/class-pu-admin.php:187
+msgid "Back to FAQ"
+msgstr ""
+
+#: includes/class-pu-admin.php:218
+msgid "Add Question & Answer"
+msgstr ""
+
+#: includes/class-pu-admin.php:224 includes/class-pu-admin.php:241
+msgid "Question"
+msgstr ""
+
+#: includes/class-pu-admin.php:228 includes/class-pu-admin.php:245
+msgid "Answer"
+msgstr ""
+
+#: includes/class-pu-admin.php:231
+msgid "Add Q&A"
+msgstr ""
+
+#: includes/class-pu-admin.php:234
+msgid "Edit Question & Answer"
+msgstr ""
+
+#: includes/class-pu-admin.php:249
+msgid "Order"
+msgstr ""
+
+#: includes/class-pu-admin.php:252
+msgid "Edit Q&A"
+msgstr ""
+
+#: includes/class-pu-admin.php:291 includes/class-pu-admin.php:549
+msgid "Page Utils version"
+msgstr ""
+
+#: includes/class-pu-admin.php:303 includes/class-pu-admin.php:389
+#: includes/class-pu-admin.php:454
+msgid "Alternate Hreflang slug"
+msgstr ""
+
+#: includes/class-pu-admin.php:335 includes/class-pu-admin.php:352
+#: includes/class-pu-admin.php:408 includes/class-pu-admin.php:425
+#: includes/class-pu-admin.php:473 includes/class-pu-admin.php:490
+msgid "Add alternate slug"
+msgstr ""
+
+#: includes/class-pu-admin.php:540
+msgid "FAQ Settings"
+msgstr ""
+
+#: includes/pu-core-functions.php:40
+msgid "FAQ added."
+msgstr ""
+
+#: includes/pu-core-functions.php:41
+msgid "FAQ updated."
+msgstr ""
+
+#: includes/pu-core-functions.php:42 includes/pu-core-functions.php:51
+msgid "FAQ deleted."
+msgstr ""
+
+#: includes/pu-core-functions.php:43
+msgid "QNA added."
+msgstr ""
+
+#: includes/pu-core-functions.php:44
+msgid "QNA updated."
+msgstr ""
+
+#: includes/pu-core-functions.php:45 includes/pu-core-functions.php:54
+msgid "QNA deleted."
+msgstr ""
+
+#: includes/pu-core-functions.php:49
+msgid "FAQ not added."
+msgstr ""
+
+#: includes/pu-core-functions.php:50
+msgid "FAQ not updated."
+msgstr ""
+
+#: includes/pu-core-functions.php:52
+msgid "QNA not added."
+msgstr ""
+
+#: includes/pu-core-functions.php:53
+msgid "QNA not updated."
+msgstr ""
+
+#: includes/class-pu.php:51
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:53
+msgid "Click to copy shortcode"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:53
+msgid "Copied to clipboard"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:53
+#: includes/list-tables/class-faq-admin-list-table.php:74
+msgid "Edit"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:75
+#: includes/list-tables/class-faq-admin-list-table.php:146
+msgid "Delete"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:92
+msgid "Questions & Answers"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:118
+msgid "ID"
+msgstr ""
+
+#: includes/list-tables/class-faq-admin-list-table.php:120
+msgid "Action"
+msgstr ""
+
+#. ID
+#: includes/settings/class-faq-admin-settings.php:39
+#: includes/settings/class-hreflang-tags-admin-settings.php:40
+msgid "General"
+msgstr ""
+
+#. ID
+#: includes/settings/class-faq-admin-settings.php:46
+msgid "Custom CSS"
+msgstr ""
+
+#. ID
+#: includes/settings/class-faq-admin-settings.php:54
+msgid "Tick to enable webp support"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:80
+#: includes/settings/class-hreflang-tags-admin-settings.php:94
+msgid "Enter your settings below:"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:90
+msgid "In this field, you can write your custom CSS code for shortcodes."
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:104
+msgid "Provide webp support to browsers that do not support webp."
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:113
+msgid "Shortcode - [faq]"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:117
+msgid "Attributes"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:118
+msgid "Values"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:124
+msgid "The id of a FAQ"
+msgstr ""
+
+#: includes/settings/class-faq-admin-settings.php:128
+msgid "FAQ ordering is ascending (ASC) or descending (DESC). Defaults to ASC"
+msgstr ""
+
+#. ID
+#: includes/settings/class-hreflang-tags-admin-settings.php:47
+msgid "Content Types"
+msgstr ""
+
+#. ID
+#: includes/settings/class-hreflang-tags-admin-settings.php:55
+msgid "Add site base url in available lang"
+msgstr ""
+
+#. ID
+#: includes/settings/class-hreflang-tags-admin-settings.php:63
+msgid "Enable X-default lang"
+msgstr ""
+
+#: includes/settings/class-hreflang-tags-admin-settings.php:133
+msgid "Add supports for hreflang tags in above content types"
+msgstr ""
+
+#: includes/settings/class-hreflang-tags-admin-settings.php:163
+#: includes/settings/class-hreflang-tags-admin-settings.php:194
+#: includes/settings/class-hreflang-tags-admin-settings.php:230
+msgid "Site URL"
+msgstr ""
+
+#: includes/settings/class-hreflang-tags-admin-settings.php:167
+#: includes/settings/class-hreflang-tags-admin-settings.php:198
+#: includes/settings/class-hreflang-tags-admin-settings.php:234
+msgid "Select your language"
+msgstr ""
+
+#: includes/settings/class-hreflang-tags-admin-settings.php:182
+#: includes/settings/class-hreflang-tags-admin-settings.php:248
+#: includes/settings/class-hreflang-tags-admin-settings.php:248
+msgid "Remove"
+msgstr ""
+
+#: includes/settings/class-hreflang-tags-admin-settings.php:189
+#: includes/settings/class-hreflang-tags-admin-settings.php:215
+#: includes/settings/class-hreflang-tags-admin-settings.php:215
+msgid "Add more"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A toolkit that helps you to add Page Utils likes Frequently Asked Questions."
+msgstr ""
+
+#. Author of the plugin
+msgid "CAS"
+msgstr ""
